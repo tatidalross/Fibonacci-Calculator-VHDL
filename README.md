@@ -1,2 +1,3 @@
 # Fibonacci Calculator VHDL
- implementing a circuit in VHDL that calculates Fibonacci numbers
+ Implementing a circuit in VHDL that calculates Fibonacci numbers
+
